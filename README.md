@@ -1,6 +1,7 @@
 # VSCodeBundle
 
 ## Plugins
+
 All Autocomplete
 Auto Close Tag
 Auto Complete Tag
